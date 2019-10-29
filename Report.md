@@ -12,11 +12,11 @@ The work goes as follows:
 * Mostafa make a couple of branches
 * Mostafa try to edit the readme at first
 * Face a problem of how to update the forked version
-
+![there isn't anything to compare](https://github.com/mohamedsayed18/Robotics_dev_RoadMap/blob/master/git_pull.jpg)
 The solution
 https://rick.cogley.info/post/update-your-forked-repository-directly-on-github/
 
-The Work complete as follows we start to edit the branches and make pull requests then merging to tha main at last 
+The Work complete as follows we start to edit the branches and make pull requests then merging to tha main at last
 
 Other problem was a misconception from us, we thought that the person who fork the repo(Mostafa) will be able to make commits on the branches created by the author (mohamed) which was not true so the solution was even (Mostafa) create his own branches or the author (Mohamed) add him as a contributor
 ## How to start
