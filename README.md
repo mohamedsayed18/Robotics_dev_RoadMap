@@ -1,38 +1,19 @@
 # Robotics_dev_RoadMap
-Road map to be a robotic developer
-inspired by awsome robotics but the idea is to make a road map
+Road map to be a Robotics developer
+inspired by [awsome robotics](https://github.com/kiloreux/awesome-robotics) <br/>
+but the idea is to make a step by step guide
 
 ## How to start
-every update goes here
-* Beginner ROS TUTS
-* Robotics software developer
-### Task requirements
-1-make four branches at the same moment at least <br/>
-2- should contain readme and 5 other elements <br/>
+* [Beginner ROS TUTS](https://github.com/mohamedsayed18/Robotics_dev_RoadMap/blob/master/Beginners.md.txt)
 
-#### cleaning repo & submit
-Make the file readme and submit
+* [Robotics software developer](https://github.com/mohamedsayed18/Robotics_dev_RoadMap/blob/master/Dev.md)
 
-### steps to implement
+* [Jobs](https://github.com/mohamedsayed18/Robotics_dev_RoadMap/blob/master/Jobs.md)
 
-*contribution guideline <br/>
-*different directories
-**
+* [Self_help](https://github.com/mohamedsayed18/Robotics_dev_RoadMap/blob/master/self.md)
 
-#### note this project was done as part of FRP (Fundamental robotics programming) at Innopolis university
 
-### crieteria
-1. repo is not suitable for the conditions (-5)
-1. forget to add repo to googlesheet (-3)
-1. repo is not unique (-10)
-2. the result is not the same as choosed repo (-8)
-2. commits directly to master (-5)
-2. less than 80% commits contains changes in readme (-3)
-2. commit's conditions not maintained (-4)
-2. no moment with 4 branches (-5)
-3. forget to remove readme (-2)
-3. forget to add report (-4)
-3. report is useless (-4) ps. do it useful for you, not for me.
-3. forget to remove folder (-5)
+ note this project was done as part of FRP (Fundamental robotics programming) at Innopolis university
+
 
 ### Future contribution
