@@ -1,11 +1,14 @@
 # Robotics_dev_RoadMap
 Road map to be a robotic developer
-
 inspired by awsome robotics but the idea is to make a road map
+
+## How to start
+every update goes here
+
 
 ### Task requirements
 1-make four branches at the same moment at least <br/>
-2- should contain repo and two other elements <br/>
+2- should contain readme and 5 other elements <br/>
 
 #### cleaning repo & submit
 Make the file readme and submit
@@ -31,3 +34,5 @@ Make the file readme and submit
 3. forget to add report (-4)
 3. report is useless (-4) ps. do it useful for you, not for me.
 3. forget to remove folder (-5)
+
+### Future contribution
